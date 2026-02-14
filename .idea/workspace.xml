@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for first assignment_1_hello_graph_world.ipynb">
-      <change afterPath="$PROJECT_DIR$/data620_assignment_wk3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discussion_marketing_analytics.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesmis/lesmis.gml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesmis/lesmis.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_network_analysis_for_startups_workbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/social_network_analysis_for_startups_workbook.ipynb" afterDir="false" />
+    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for assignment3 video">
+      <change afterPath="$PROJECT_DIR$/data620_assignment3_datavisualizations.mov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA_620_SP25_AL.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_clean_data/artist_edges.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_clean_data/athletes_edges.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_clean_data/company_edges.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_clean_data/dataset_descriptions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_clean_data/government_edges.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_clean_data/new_sites_edges.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_clean_data/politician_edges.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_clean_data/public_figure_edges.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_clean_data/tvshow_edges.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social_network_analysis_for_startups_workbook.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +124,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770580451879</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit for assignment3">
+      <option name="closed" value="true" />
+      <created>1771035025042</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771035025042</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit for assignment3 video">
+      <option name="closed" value="true" />
+      <created>1771035312627</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771035312628</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,7 +156,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit for first assignment_1_hello_graph_world.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit for first assignment_1_hello_graph_world.ipynb" />
+    <MESSAGE value="commit for assignment3" />
+    <MESSAGE value="commit for assignment3 video" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for assignment3 video" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
