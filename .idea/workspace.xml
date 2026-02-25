@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for assignment3 video">
-      <change afterPath="$PROJECT_DIR$/data620_assignment3_datavisualizations.mov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA_620_SP25_AL.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment1image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook_clean_data/artist_edges.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook_clean_data/athletes_edges.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook_clean_data/company_edges.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook_clean_data/dataset_descriptions.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook_clean_data/government_edges.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook_clean_data/new_sites_edges.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook_clean_data/politician_edges.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook_clean_data/public_figure_edges.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook_clean_data/tvshow_edges.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_network_analysis_for_startups_workbook.ipynb" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/discussion_week03_the_future_of_work.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discussion_week04_FaceToFaceInteractionnetworks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polblogs/polblogs.mtx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polblogs/readme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/project1proposal.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sna_for_startups_workbook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771035312628</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit for assignment3 video">
+      <option name="closed" value="true" />
+      <created>1771035498382</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771035498382</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit for assignment3 video">
+      <option name="closed" value="true" />
+      <created>1771035826593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771035826593</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
