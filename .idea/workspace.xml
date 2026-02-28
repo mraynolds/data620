@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for assignment3 video">
-      <change afterPath="$PROJECT_DIR$/discussion_week03_the_future_of_work.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discussion_week04_FaceToFaceInteractionnetworks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polblogs/polblogs.mtx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polblogs/readme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1/project1proposal.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sna_for_startups_workbook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook.ipynb" afterDir="false" />
+    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for project1proposal">
+      <change afterPath="$PROJECT_DIR$/project1/project1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sna_for_startups_workbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sna_for_startups_workbook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771035826593</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit for project1proposal">
+      <option name="closed" value="true" />
+      <created>1771978236625</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771978236625</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +173,8 @@
     <MESSAGE value="commit for first assignment_1_hello_graph_world.ipynb" />
     <MESSAGE value="commit for assignment3" />
     <MESSAGE value="commit for assignment3 video" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit for assignment3 video" />
+    <MESSAGE value="commit for project1proposal" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for project1proposal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -183,6 +188,11 @@
           <url>file://$PROJECT_DIR$/data620_assignment_wk3.ipynb</url>
           <line>3</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/project1/project1.ipynb</url>
+          <line>151</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
