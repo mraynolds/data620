@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for project final draft">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1/project1.gephi" beforeDir="false" afterPath="$PROJECT_DIR$/project1/project1.gephi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project1/project1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project1/project1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772757042172</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit for project final draft">
+      <option name="closed" value="true" />
+      <created>1772843183100</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1772843183100</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
