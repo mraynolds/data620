@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for assignment week 6 southern women's club">
-      <change beforePath="$PROJECT_DIR$/assignment_week6_davis_southern_club_women.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_week6_davis_southern_club_women.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for assignment week 6 southern women's club" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773593694371</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="commit for assignment week 6 southern women's club">
+      <option name="closed" value="true" />
+      <created>1773601599036</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773601599036</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
