@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for project final draft">
-      <change afterPath="$PROJECT_DIR$/assignment_week6_davis_southern_club_women.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nltk_book_workbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nltk_book_workbook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plot_davis_club.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plot_davis_club.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1/project1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project1/project1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sna_for_startups_workbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sna_for_startups_workbook.ipynb" afterDir="false" />
+    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for assignment week 6 southern women's club">
+      <change beforePath="$PROJECT_DIR$/assignment_week6_davis_southern_club_women.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_week6_davis_southern_club_women.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SNABook" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -57,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/field/Desktop/CUNY/data_620/data_620_assignments",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -197,7 +192,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772846036901</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit for assignment week 6 southern women's club">
+      <option name="closed" value="true" />
+      <created>1773593569347</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773593569347</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit for assignment week 6 southern women's club">
+      <option name="closed" value="true" />
+      <created>1773593694370</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1773593694371</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +229,8 @@
     <MESSAGE value="commit for project1proposal" />
     <MESSAGE value="commit for project first draft" />
     <MESSAGE value="commit for project final draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit for project final draft" />
+    <MESSAGE value="commit for assignment week 6 southern women's club" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for assignment week 6 southern women's club" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
