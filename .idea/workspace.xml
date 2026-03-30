@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for project2">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discussion_wk07.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/data_620_project2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment_high_frequency_words.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/funding.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/funding.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/funding_final.parquet" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_week6_davis_southern_club_women.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment_week6_davis_southern_club_women.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1/project1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project1/project1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workbook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nltk_book_workbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nltk_book_workbook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773602915859</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit for project2">
+      <option name="closed" value="true" />
+      <created>1774323292321</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1774323292322</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
