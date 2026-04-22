@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for project 3">
-      <change afterPath="$PROJECT_DIR$/project3/project3v2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spam_vs_ham/spam_classifier.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project3/project3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project3/project3.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e905d82c-a262-4515-8a43-ca962187d3fb" name="Changes" comment="commit for Document Classification Assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -262,7 +257,31 @@
       <option name="project" value="LOCAL" />
       <updated>1775441877611</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="commit for Document Classification Assignment">
+      <option name="closed" value="true" />
+      <created>1776795486844</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1776795486844</updated>
+    </task>
+    <task id="LOCAL-00024" summary="commit for Document Classification Assignment">
+      <option name="closed" value="true" />
+      <created>1776796180388</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1776796180388</updated>
+    </task>
+    <task id="LOCAL-00025" summary="commit for Document Classification Assignment">
+      <option name="closed" value="true" />
+      <created>1776796642122</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1776796642122</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +306,8 @@
     <MESSAGE value="commit for project2" />
     <MESSAGE value="commit for assignment high frequency words" />
     <MESSAGE value="commit for project 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit for project 3" />
+    <MESSAGE value="commit for Document Classification Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for Document Classification Assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
